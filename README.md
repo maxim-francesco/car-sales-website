@@ -16,11 +16,6 @@ A fully responsive car sales website built as part of the **Tailwind CSS v4 From
 - **JavaScript**: Basic interactivity (e.g., hamburger menu toggle).
 - **Node.js & npm**: For Tailwind CSS setup and build process.
 
-## 📸 Screenshots
-![Homepage](images/screenshot-homepage.png)  
-![Car Listings](images/screenshot-car-listings.png)  
-*Note: Replace with actual screenshots of your project.*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -71,7 +66,7 @@ car-sales-website/
 - Configured and optimized Tailwind CSS with JIT mode for efficient builds.
 
 ## 🔗 Live Demo
-[[View the live demo here](https://maxim-francesco.github.io/car-sales-website/index.html)
+[[View the live demo here](https://maxim-francesco.github.io/car-sales-website/index.html)]
 *Note: Replace with the actual deployment link if hosted.*
 
 ## 🙌 Acknowledgments
