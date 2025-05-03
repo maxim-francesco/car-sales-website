@@ -71,7 +71,7 @@ car-sales-website/
 - Configured and optimized Tailwind CSS with JIT mode for efficient builds.
 
 ## 🔗 Live Demo
-[View the live demo here](https://car-sales-website.vercel.app)  
+[[View the live demo here](https://maxim-francesco.github.io/car-sales-website/index.html)
 *Note: Replace with the actual deployment link if hosted.*
 
 ## 🙌 Acknowledgments
