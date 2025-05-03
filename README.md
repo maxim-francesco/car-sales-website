@@ -25,7 +25,7 @@ A fully responsive car sales website built as part of the **Tailwind CSS v4 From
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/car-sales-website.git
+   git clone https://github.com/maxim-francesco/car-sales-website.git
    cd car-sales-website
    ```
 
