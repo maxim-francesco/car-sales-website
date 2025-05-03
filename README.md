@@ -67,7 +67,6 @@ car-sales-website/
 
 ## 🔗 Live Demo
 [[View the live demo here](https://maxim-francesco.github.io/car-sales-website/index.html)]
-*Note: Replace with the actual deployment link if hosted.*
 
 ## 🙌 Acknowledgments
 - Thanks to **Ashutosh Pawar** for the excellent **Tailwind CSS v4 From Scratch Beginner To Pro** course.
